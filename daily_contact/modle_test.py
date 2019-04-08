@@ -7,7 +7,6 @@
 
 import random
 import sys
-from json
 
 # random
 def v_code():
